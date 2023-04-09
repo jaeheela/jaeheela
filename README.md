@@ -1,5 +1,6 @@
-### Hi I'm JERI👋
+## Hi I'm JERI👋
 <p> Welcome to my page! </p>
+
 
 ### learning skills
 <p>
