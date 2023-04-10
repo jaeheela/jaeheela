@@ -13,6 +13,7 @@
   <img alt="axios" src="https://img.shields.io/badge/-axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
 </p>
 <p> 
+  <img alt="java" src="https://img.shields.io/badge/-java-3A75AF?style=flat-square&logo=java&logoColor=white" />
   <img alt="spring" src="https://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="gradle" src="https://img.shields.io/badge/-gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
