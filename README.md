@@ -20,6 +20,7 @@
   <img alt="gradle" src="https://img.shields.io/badge/-gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img alt="apacheMaven" src="https://img.shields.io/badge/-maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white" />
   <img alt="oracle" src="https://img.shields.io/badge/-oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="apacheTomcat" src="https://img.shields.io/badge/-apacheTomcat-F8DC75?style=flat-square&logo=apacheTomcat&logoColor=white" />
   
 </p>
