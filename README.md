@@ -9,7 +9,6 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 <p> 
   <img alt="java" src="https://img.shields.io/badge/-java-3A75AF?style=flat-square&logo=java&logoColor=white" />
