@@ -29,7 +29,6 @@
 </p>
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/jaeheela" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://velog.io/@o5e2o5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/velog-%20C997.svg?&style=for-the-badge&logo=velog&logoColor=white" /></a> 
+  <a href="#" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%2312100E.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a> 
 </p>
 
