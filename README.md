@@ -29,6 +29,6 @@
 </p>
 <h3>Where to find me</h3>
 <p>
-  <a href="https://jeaheela-jeri.notion.site/20b9aff0515e41cb982a2b7fbfb93d43?v=2e35464eb0d9418e8abe319fd7ef7e97&pvs=4" target="blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%2312100E.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a> 
+  <a href="" target="blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%2312100E.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a> 
 </p>
 
